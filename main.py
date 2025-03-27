@@ -13,8 +13,8 @@ import asyncio
 load_dotenv()
 
 # Токен вашего бота
-TOKEN = "7838326957:AAHbDvhPpQi249l1KTqU6aTTr4ajg3i70e4"
-API_KEY = "a0345e5799a9303b6e5cc457d54bafa8"
+TOKEN = "TOKEN"
+API_KEY = "API_KEY"
 
 # Проверка, что токен загружен
 if not TOKEN:
